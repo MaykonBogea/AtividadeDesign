@@ -11,11 +11,11 @@ comprá-lo."
 O sistema Foruma consta com uma barra de pesquisa de produtos, onde o usuario pesquisa o produto desejado e avalia se naquela loja o preço é baixo e se apresenta uma qualidade boa do produto, levando em conta avaliações de compradores anteriores
 
 # 4 - Telas desenvolvidas
-<img width="1600" height="786" alt="Imagem da tela de Login" src="">
-<img width="1600" height="786" alt="Imagem da tela Principal" src="">
-<img width="1600" height="786" alt="Imagem da tela Produto" src="">
-<img width="1600" height="786" alt="Imagem da tela Avaliações" src="">
-<img width="1600" height="786" alt="Imagem da tela Preçõs" src="">
+<img width="1600" height="786" alt="Imagem da tela de Login" src="https://github.com/MaykonBogea/AtividadeDesign/blob/main/Login.png">
+<img width="1600" height="786" alt="Imagem da tela Principal" src="https://github.com/MaykonBogea/AtividadeDesign/blob/main/Inicial.png">
+<img width="1600" height="786" alt="Imagem da tela Produto" src="https://github.com/MaykonBogea/AtividadeDesign/blob/main/Produto.png">
+<img width="1600" height="786" alt="Imagem da tela Preçõs" src="https://github.com/MaykonBogea/AtividadeDesign/blob/main/Precos.png">
+<img width="1600" height="786" alt="Imagem da tela Avaliações" src="https://github.com/MaykonBogea/AtividadeDesign/blob/main/Avaliacoes.png">
 
 
 # Link Do Figma:
