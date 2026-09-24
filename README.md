@@ -10,6 +10,9 @@ comprá-lo."
 # 3 - Solução proposta
 O sistema Foruma consta com uma barra de pesquisa de produtos, onde o usuario pesquisa o produto desejado e avalia se naquela loja o preço é baixo e se apresenta uma qualidade boa do produto, levando em conta avaliações de compradores anteriores
 
+# Fluxo Do Usuario
+<img width="1600" height="786" alt="Imagem do fluxo do usuario" src="https://github.com/MaykonBogea/AtividadeDesign/blob/main/Fluxo.png">
+
 # 4 - Telas desenvolvidas
 <img width="1600" height="786" alt="Imagem da tela de Login" src="https://github.com/MaykonBogea/AtividadeDesign/blob/main/Login.png">
 <img width="1600" height="786" alt="Imagem da tela Principal" src="https://github.com/MaykonBogea/AtividadeDesign/blob/main/Inicial.png">
