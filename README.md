@@ -1,0 +1,22 @@
+# 1 - Sobre o projeto
+Desenvolvemos o **FORUMA** uma plataforma de classificação e avaliação de produtos online, ela foi pensada para ajudar a encontrar de forma confiavel produtos de qualidade em lojas online
+
+# 2 - Problema
+### **Decidir se vale a pena comprar alguma coisa**
+"Pessoas têm dificuldade para decidir se um
+produto realmente vale o preço antes de
+comprá-lo."
+
+# 3 - Solução proposta
+O sistema Foruma consta com uma barra de pesquisa de produtos, onde o usuario pesquisa o produto desejado e avalia se naquela loja o preço é baixo e se apresenta uma qualidade boa do produto, levando em conta avaliações de compradores anteriores
+
+# 4 - Telas desenvolvidas
+<img width="1600" height="786" alt="Imagem da tela de Login" src="">
+<img width="1600" height="786" alt="Imagem da tela Principal" src="">
+<img width="1600" height="786" alt="Imagem da tela Produto" src="">
+<img width="1600" height="786" alt="Imagem da tela Avaliações" src="">
+<img width="1600" height="786" alt="Imagem da tela Preçõs" src="">
+
+
+# Link Do Figma:
+- https://www.figma.com/make/bP8Rhpnq3Qjnah50Is9Ubl/Forum-de-Produtos?t=v1Z9dV2PIjJYi5rD-1
